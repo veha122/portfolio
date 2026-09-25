@@ -1,0 +1,1 @@
+import type { CustomizationOption } from './t1';
